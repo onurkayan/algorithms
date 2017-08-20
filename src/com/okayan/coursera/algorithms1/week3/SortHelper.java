@@ -1,9 +1,6 @@
-package com.okayan.coursera.algorithms1.week2.sorting;
+package com.okayan.coursera.algorithms1.week3;
 
 import edu.princeton.cs.algs4.StdRandom;
-
-import java.util.Comparator;
-import java.util.Objects;
 
 /**
  * Created by onur on 17/08/2017.

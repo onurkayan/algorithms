@@ -1,4 +1,4 @@
-package com.okayan.coursera.algorithms1.week2.sorting;
+package com.okayan.coursera.algorithms1.week3;
 
 import edu.princeton.cs.algs4.Insertion;
 import edu.princeton.cs.algs4.StdOut;

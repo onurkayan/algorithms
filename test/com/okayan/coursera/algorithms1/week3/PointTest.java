@@ -1,8 +1,9 @@
-package com.okayan.coursera.algorithms1.week2.sorting;
+package com.okayan.coursera.algorithms1.week3;
 
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertTrue;
 
 public class PointTest {
 

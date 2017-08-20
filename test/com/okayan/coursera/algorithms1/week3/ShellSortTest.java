@@ -1,9 +1,9 @@
-package com.okayan.coursera.algorithms1.week2.sorting;
+package com.okayan.coursera.algorithms1.week3;
 
 import org.junit.Test;
 
-import static com.okayan.coursera.algorithms1.week2.sorting.SortHelper.isSorted;
-import static org.junit.Assert.*;
+import static com.okayan.coursera.algorithms1.week3.SortHelper.isSorted;
+import static org.junit.Assert.assertTrue;
 
 public class ShellSortTest {
 

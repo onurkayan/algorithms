@@ -1,18 +1,13 @@
-package com.okayan.coursera.algorithms1.week2.sorting;
+package com.okayan.coursera.algorithms1.week3;
 
 import edu.princeton.cs.algs4.In;
 import edu.princeton.cs.algs4.StdDraw;
-import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 import org.junit.Before;
-import org.junit.Ignore;
 import org.junit.Test;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.Arrays;
-
-import static org.junit.Assert.*;
 
 public class BruteCollinearPointsTest {
 

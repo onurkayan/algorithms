@@ -1,12 +1,8 @@
-package com.okayan.coursera.algorithms1.week2.sorting;
+package com.okayan.coursera.algorithms1.week3;
 
 import org.junit.Test;
-import org.omg.PortableInterceptor.SYSTEM_EXCEPTION;
 
-import java.util.Arrays;
-
-import static com.okayan.coursera.algorithms1.week2.sorting.SortHelper.isSorted;
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertTrue;
 
 public class SelectionSortTest {
 
@@ -15,7 +11,7 @@ public class SelectionSortTest {
         Integer[] a = {1,10,8,5,4,7,2};
         SelectionSort.sort(a);
 
-        assertTrue(isSorted(a));
+        assertTrue(SortHelper.isSorted(a));
 
 //        Arrays.stream(a).forEach(System.out::print);
 

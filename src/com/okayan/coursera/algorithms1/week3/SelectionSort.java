@@ -1,7 +1,7 @@
-package com.okayan.coursera.algorithms1.week2.sorting;
+package com.okayan.coursera.algorithms1.week3;
 
-import static com.okayan.coursera.algorithms1.week2.sorting.SortHelper.exch;
-import static com.okayan.coursera.algorithms1.week2.sorting.SortHelper.less;
+import static com.okayan.coursera.algorithms1.week3.SortHelper.exch;
+import static com.okayan.coursera.algorithms1.week3.SortHelper.less;
 
 /**
  * Created by onur on 17/08/2017.

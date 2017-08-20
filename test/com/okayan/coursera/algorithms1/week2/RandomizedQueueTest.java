@@ -1,6 +1,5 @@
 package com.okayan.coursera.algorithms1.week2;
 
-import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdRandom;
 import org.junit.Before;
 import org.junit.Test;

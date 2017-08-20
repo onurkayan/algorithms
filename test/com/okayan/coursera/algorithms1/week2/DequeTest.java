@@ -1,12 +1,11 @@
-package com.okayan.coursera.algorithms.week2;
+package com.okayan.coursera.algorithms1.week2;
 
-import com.okayan.coursera.algorithms1.week2.Deque;
 import org.junit.Before;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 public class DequeTest {
 

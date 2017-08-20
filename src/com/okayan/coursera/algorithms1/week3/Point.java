@@ -1,4 +1,4 @@
-package com.okayan.coursera.algorithms1.week2.sorting;
+package com.okayan.coursera.algorithms1.week3;
 
 /**
  * Created by onur on 17/08/2017.
@@ -13,8 +13,9 @@ package com.okayan.coursera.algorithms1.week2.sorting;
  *
  ******************************************************************************/
 
-import java.util.Comparator;
 import edu.princeton.cs.algs4.StdDraw;
+
+import java.util.Comparator;
 
 public class Point implements Comparable<Point> {
 
